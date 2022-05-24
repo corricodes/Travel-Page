@@ -1,5 +1,5 @@
 <h1 align="center">Travel Page</h1>
-<h3 align="center">A practice project with HTML, CSS & JavaScript from 100 Days of Code by Academind.</h3>
+<h3 align="center">A project with HTML & CSS from 100 Days of Code by Academind.</h3>
 
 - 🔭 I’m currently working on **creating more projects using JavaScript to add to my porfolio.**
 
